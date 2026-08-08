@@ -6,8 +6,13 @@ Scenario
 IT support is a collaborative environment, and the ticket is one of the primary means of communication between support personnel. Poor ticket hygiene (missing updates, incomplete documentation) increases the risk of IT failures and lost work time.
 
 Because a help desk can face a large volume of tickets, a triage system is used to ensure the most critical issues are addressed first. Prioritization was based on three factors:
-Mission : Prioritize and respond to a queue of help desk tickets / Apply the standard escalation procedure where necessary /Keep every ticket fully and accurately documented
+Mission : 
+1. Prioritize and respond to a queue of help desk tickets
+2.  Apply the standard escalation procedure where necessary
+ 3. Keep every ticket fully and accurately documented
+    
 Tasks Completed
+
 1. Escalate Tickets
 Reviewed the open ticket queue and determined which issues could be resolved directly versus which needed to be escalated. Followed the documented escalation procedure, ensuring any handoff included the relevant context for the receiving person/team to take ownership without needing to backtrack through the ticket history.
 2. Assist a User
@@ -27,10 +32,11 @@ PC
 Angel / Sam
 
 
-(Credentials omitted — lab-issued and single-use.)
 Skills Demonstrated
-Ticket triage and prioritization using scope/impact/age criteria
-Following a documented IT escalation procedure
-End-user support and issue resolution
-Clear, thorough ticket documentation for team communication
-Navigating a help desk ticketing system and simulated network assets
+1. Ticket triage and prioritization using scope/impact/age criteria
+2. Following a documented IT escalation procedure
+3. End-user support and issue resolution
+4. Clear, thorough ticket documentation for team communication
+5. Navigating a help desk ticketing system and simulated network assets
+
+Screenshots 
