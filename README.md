@@ -21,8 +21,10 @@ Reviewed the open ticket queue and determined which issues could be resolved dir
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(992).png?raw=true)
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(996).png?raw=true)
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(997).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1000).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1003).png?raw=true)
 
-2. Assist a User
+3. Assist a User
 Identified the next-highest priority ticket in the queue and worked directly with the end user to resolve it, then updated the ticket to clearly document how the issue was resolved.
 Screenshots :
 ![image alt]()
