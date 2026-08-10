@@ -15,9 +15,12 @@ Tasks Completed
 
 1. Escalate Tickets
 Reviewed the open ticket queue and determined which issues could be resolved directly versus which needed to be escalated. Followed the documented escalation procedure, ensuring any handoff included the relevant context for the receiving person/team to take ownership without needing to backtrack through the ticket history.
-2. Assist a User
+![image alt] [https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(989).png?raw=true]
+
+
+3. Assist a User
 Identified the next-highest priority ticket in the queue and worked directly with the end user to resolve it, then updated the ticket to clearly document how the issue was resolved.
-3. Respond to a Query
+4. Respond to a Query
 Located and processed the final open, unassigned ticket in the queue to ensure no request was left unaddressed.
 
 Environment access used across tasks:
@@ -39,5 +42,4 @@ Skills Demonstrated
 4. Clear, thorough ticket documentation for team communication
 5. Navigating a help desk ticketing system and simulated network assets
 
-Screenshots 
-![image alt]
+
