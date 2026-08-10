@@ -15,19 +15,20 @@ Tasks Completed
 
 1. Escalate Tickets
 Reviewed the open ticket queue and determined which issues could be resolved directly versus which needed to be escalated. Followed the documented escalation procedure, ensuring any handoff included the relevant context for the receiving person/team to take ownership without needing to backtrack through the ticket history.
+ Screenshots :
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(989).png?raw=true)
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(991).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(992).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(996).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(997).png?raw=true)
 
-
-3. Assist a User
+2. Assist a User
 Identified the next-highest priority ticket in the queue and worked directly with the end user to resolve it, then updated the ticket to clearly document how the issue was resolved.
+Screenshots :
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 4. Respond to a Query
 Located and processed the final open, unassigned ticket in the queue to ensure no request was left unaddressed.
 
