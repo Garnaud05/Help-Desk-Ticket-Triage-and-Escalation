@@ -23,7 +23,7 @@ Reviewed the open ticket queue and determined which issues could be resolved dir
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(997).png?raw=true)
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1000).png?raw=true)
 
-3. Assist a User
+2. Assist a User
 Identified the next-highest priority ticket in the queue and worked directly with the end user to resolve it, then updated the ticket to clearly document how the issue was resolved.
 Screenshots :
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1003).png?raw=true)
@@ -33,9 +33,16 @@ Screenshots :
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1010).png?raw=true)
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1012).png?raw=true)
 ![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1014).png?raw=true)
-5. Respond to a Query
-Located and processed the final open, unassigned ticket in the queue to ensure no request was left unaddressed.
 
+3. Respond to a Query
+Located and processed the final open, unassigned ticket in the queue to ensure no request was left unaddressed.
+Screenshots :
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1015).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1016).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1019).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1021).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1024).png?raw=true)
+![image alt](https://github.com/Garnaud05/Help-Desk-Ticket-Triage-and-Escalation/blob/main/Screenshot%20(1026).png?raw=true)
 
 Environment access used across tasks:
 
